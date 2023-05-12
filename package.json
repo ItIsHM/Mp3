@@ -1,0 +1,30 @@
+{
+
+  "name": "mp4-to-mp3-converter",
+
+  "version": "1.0.0",
+
+  "description": "Node.js website that converts MP4 files to MP3",
+
+  "main": "index.js",
+
+  "dependencies": {
+
+    "express": "^4.17.1",
+
+    "fluent-ffmpeg": "^2.1.2"
+
+  },
+
+  "scripts": {
+
+    "start": "node index.js"
+
+  },
+
+  "author": "Your Name",
+
+  "license": "MIT"
+
+}
+
